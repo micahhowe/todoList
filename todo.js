@@ -1,4 +1,4 @@
-var todoList = {
+let todoList = {
   todos: [],
   displayTodos: function() {
     debugger;
